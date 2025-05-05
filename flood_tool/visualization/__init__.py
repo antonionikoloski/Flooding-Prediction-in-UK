@@ -1,7 +1,5 @@
-from .analysis import *  # noqa: F401, F403
-from .live import *  # noqa: F401, F403
-from .mapping import *  # noqa: F401, F403
-from .proverty import *
-from .visualise import *
-from .rainfall import *
-from .tidal import *
+"""Python flood risk analysis tool"""
+
+from .geo import *  # noqa: F401, F403
+from .tool import *  # noqa: F401, F403
+from .visualization import *  # noqa: F401, F403

@@ -4,7 +4,7 @@
 
 The project is providing the following:
 
- 1. At least one analysis method to estimate a number of attributes for unlabelled postcodes extrapolated from sample data which is provided to you:
+ 1. At least one analysis method to estimate a number of attributes for unlabelled postcodes extrapolated from sample data which is provided:
     - Flood risk from rivers & seas.
     - Flood risk from surface water.
     - Median house price.

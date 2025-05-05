@@ -1,14 +1,8 @@
 # Flood Risk Prediction tool
 
-## Deadlines
--  **Code: 12pm GMT Friday 24th November 2023**
--  **Presentation and one-page report: 4pm GMT Friday 24th November 2023**
-
-You should update this document in the course of your work to reflect the scope and abilities of your project, as well as to provide appropriate instuctions to potential users (and markers) of your code.
-
 ### Key Requirements
 
-Your project must provide the following:
+The project must provide the following:
 
  1. at least one analysis method to estimate a number of attributes for unlabelled postcodes extrapolated from sample data which is provided to you:
     - Flood risk from rivers & seas (on a 10 point scale).
@@ -23,18 +17,6 @@ Your project must provide the following:
 ![London postcode density](images/LondonPostcodeDensity.png)
 ![England Flood Risk](images/EnglandFloodRisk.png)
 ![UK soil types](images/UKSoilTypes.png)
-
-This README file *should be updated* over the course of your group's work to represent the scope and abilities of your project.
-
-### Assessment
-
- - Your code will be assessed for its speed (both at training and prediction) & predictive accuracy.
- - Your code should include tests of its functionality.
- - Additional marks will be awarded for maintaining good code quality and for a clean, well-organised repository. You should consider the kind of code you would be happy to take over from another group of students.
-
-### AI usage
-
-*To be written by you during the week explaining how your group used AI tools in developing your code*
 
 # Example Module in Template Package
 

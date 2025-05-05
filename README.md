@@ -2,17 +2,16 @@
 
 ### Key Requirements
 
-The project must provide the following:
+The project is providing the following:
 
- 1. at least one analysis method to estimate a number of attributes for unlabelled postcodes extrapolated from sample data which is provided to you:
-    - Flood risk from rivers & seas (on a 10 point scale).
-    - Flood risk from surface water (on a 10 point scale).
+ 1. At least one analysis method to estimate a number of attributes for unlabelled postcodes extrapolated from sample data which is provided to you:
+    - Flood risk from rivers & seas.
+    - Flood risk from surface water.
     - Median house price.
- 2. at least one analysis method to estimate the Local Authority & flood risks of arbitrary locations. 
- 3. a process to find the rainfall and water level near a given postcode from provided rainfall, river and tide level data, or by looking online.
- 4. visualization and analysis tools for the postcode, rainfall, river & tide data provided to you, ideally in a way which will identify potential areas at immediate risk of flooding by combining the data you have been given.
+ 2. At least one analysis method to estimate the Local Authority & flood risks of arbitrary locations. 
+ 3. A process to find the rainfall and water level near a given postcode from provided rainfall, river and tide level data, or by looking online.
+ 4. Visualization and analysis tools for the postcode, rainfall, river & tide data provided to you, ideally in a way which will identify potential areas at immediate risk of flooding by combining the data you have been given.
  
- Your code should have installation instructions and basic documentation, as docstrings for functions & class methods, as a full manual or ideally both.
 
 ![London postcode density](images/LondonPostcodeDensity.png)
 ![England Flood Risk](images/EnglandFloodRisk.png)
